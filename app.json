@@ -1,16 +1,15 @@
 {
-      "name": "PrincessAsunaRobot",
-      "description": ""name": "AsunaRobot",
+      "name": "YoneRobot",
       "description": "Telegram group management bot.",
       "keywords": [
          "telegram",
          "anime",
          "group",
          "manager",
-         "AsunaRobot"
+         "yone"
       ],   
    "repository": "https://github.com/noob-kittu/YoneRobot",
-   "addons"": [
+   "addons": [
       {
          "options": {
             "version": "12"
@@ -174,7 +173,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it linking to paul",
          "required": false,
-         "value": "https://www.paypal.me/"
+         "value": "https://www.paypal.me/PaulSonOfLars"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
