@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/c54190bb3556f4a47d238.jpg">
+  <img src="https://telegra.ph/file/a0518cd506643d784b9c5.jpg">
 </p>
 
 # Princess Asuna Robot
