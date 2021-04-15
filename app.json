@@ -1,16 +1,16 @@
 {
       "name": "PrincessAsunaRobot",
-      "description": ""An Anime themed Telegram group management bot.",
+      "description": ""name": "AsunaRobot",
+      "description": "Telegram group management bot.",
       "keywords": [
          "telegram",
          "anime",
          "group",
          "manager",
-         "PrincessAsuna"
+         "AsunaRobot"
       ],   
-   "  "logo":    "https://telegra.ph/file/a303f7801d60dc1ea3017.jpg",
- "repository": "https://github.com/HuntingBots/Princess-Asuna-Robot",
-   "addons": [
+   "repository": "https://github.com/noob-kittu/YoneRobot",
+   "addons"": [
       {
          "options": {
             "version": "12"
